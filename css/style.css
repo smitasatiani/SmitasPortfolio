@@ -1,0 +1,41 @@
+body {
+	margin: 0;
+	background-color: grey;
+	font-family: 'Exo', 'Arial', sans-serif;
+}
+
+nav {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+em {
+	font-style: strong;
+	font-weight: 700
+}
+
+h1 {
+    font-size: 60px;
+}
+header {
+	background-image: url(../images/stars.jpg);
+	text-align: center;
+	color: white;
+	height: 200px;
+}
+main {
+	text-align: center;
+}
+img {
+	border-radius: 50%;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
